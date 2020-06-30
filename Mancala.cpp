@@ -140,7 +140,7 @@ void playerTurn(int currentPlayer){
     }
   }
   
-  //traversal till stones in chosen pit become 0
+  //traversal till stones in the chosen pit become 0
   
 
     totStones = mancalaBoard[chosenPit];
